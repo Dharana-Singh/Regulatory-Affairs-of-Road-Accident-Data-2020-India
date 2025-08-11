@@ -10,7 +10,7 @@ It covers national & city-level accident patterns, cause-wise distribution, seve
 ## 📁 Files Included
 - **Regulatory Affairs of Road Accident Data 2020 India 2.0.twbx** — Tableau Packaged Workbook
 - **Regulatory Affairs of Road Accident Data 2020 India 2.0.pdf** — PDF version of the dashboard
-- **/images/** — PNG exports of each dashboard page
+- **Images** — PNG exports of each dashboard page
 
 ## 📄 Data Source
 - Government of India, Ministry of Road Transport & Highways — *data.gov.in*
@@ -23,4 +23,4 @@ It covers national & city-level accident patterns, cause-wise distribution, seve
 
 ## 📬 Contact
 Created by **Dharana Singh**  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/dharana-singh/)) | [Tableau Public Profile]([your-tableau-link](https://public.tableau.com/app/profile/dharana.singh/viz/RegulatoryAffairsofRoadAccidentData2020India2_0/HomeNavigation))
+[LinkedIn](https://www.linkedin.com/in/dharana-singh/) | [Tableau Public Profile](https://public.tableau.com/app/profile/dharana.singh/vizzes)
