@@ -5,7 +5,7 @@ It covers national & city-level accident patterns, cause-wise distribution, seve
 
 ## 📊 Dashboard Preview
 ![KPI Dashboard](images/KPI_Dashboard.png)
-![Cause & Severity Patterns](images/National_Patterns.png)
+![Cause & Severity Patterns]([images/National_Patterns.png](https://github.com/Dharana-Singh/Regulatory-Affairs-of-Road-Accident-Data-2020-India/blob/bdbb648d9d709ba07eba762939450ce8b6492a28/Dashboard_%20National%20Accident%20Patterns%20by%20Cause%20and%20Severity.png))
 ![City-Level Hotspots](images/City_Level.png)
 
 ## 📁 Files Included
