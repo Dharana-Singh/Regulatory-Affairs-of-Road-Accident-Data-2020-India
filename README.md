@@ -9,7 +9,7 @@ It covers national & city-level accident patterns, cause-wise distribution, seve
 ![City-Level Hotspots](images/City_Level.png)
 
 ## 📁 Files Included
-- **India_Road_Accidents_2020_Dashboard.twbx** — Tableau Packaged Workbook
+- **Regulatory Affairs of Road Accident Data 2020 India 2.0.twbx** — Tableau Packaged Workbook
 - **Regulatory Affairs of Road Accident Data 2020 India 2.0.pdf** — PDF version of the dashboard
 - **/images/** — PNG exports of each dashboard page
 
