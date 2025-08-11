@@ -4,9 +4,8 @@ This repository contains a Tableau analysis of the **Regulatory Affairs of Road 
 It covers national & city-level accident patterns, cause-wise distribution, severity scores, and risk hotspots.
 
 ## 📊 Dashboard Preview
-![KPI Dashboard](images/KPI_Dashboard.png)
 ![Cause & Severity Patterns](https://github.com/Dharana-Singh/Regulatory-Affairs-of-Road-Accident-Data-2020-India/blob/bdbb648d9d709ba07eba762939450ce8b6492a28/Dashboard_%20National%20Accident%20Patterns%20by%20Cause%20and%20Severity.png)
-![City-Level Hotspots](images/City_Level.png)
+![City-Level Hotspots](https://github.com/Dharana-Singh/Regulatory-Affairs-of-Road-Accident-Data-2020-India/blob/e3d5456e27a255fb1e6bcb72d3106ec4965e125e/City-Level%20Accident%20Patterns%20%26%20Risk%20Hotspots.png)
 
 ## 📁 Files Included
 - **Regulatory Affairs of Road Accident Data 2020 India 2.0.twbx** — Tableau Packaged Workbook
